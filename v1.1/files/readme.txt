@@ -1,0 +1,1 @@
+these files are for use with GMBM and GBTD Gameboy Map Builder and Gameboy Tile Designer, their outout files are used in the main.c source
