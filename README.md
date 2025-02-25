@@ -3,6 +3,8 @@
 This is an old project I did after my MA in 2006.
 It is a continuation of the hardware and software I developed on the MA for Gameboy Original.
 
+Some recordings are on sound cloud here: https://soundcloud.com/8bitplateau/sets/old-gameboy-drum-machine-recordings
+
 It is a custom cartridge (origrina design by (will find name asap)) running a Drum machine ROM, where the drum kicks triggered a series of solenoids placed on different surfaces for different noises.
 
 I set up a demo table and invited people to play with it at various events with koept.net
